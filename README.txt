@@ -4,3 +4,4 @@ And contains just 3 lines
 A new line is added
 New line added again
 Edited another addition
+Created one more line
